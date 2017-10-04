@@ -1,0 +1,5 @@
+D:\Manikandan\Personal\Learning\Design Pattern\StructuralDesignPattern\BridgePattern\BridgePattern\BridgePattern\bin\Debug\BridgePattern.exe.config
+D:\Manikandan\Personal\Learning\Design Pattern\StructuralDesignPattern\BridgePattern\BridgePattern\BridgePattern\bin\Debug\BridgePattern.exe
+D:\Manikandan\Personal\Learning\Design Pattern\StructuralDesignPattern\BridgePattern\BridgePattern\BridgePattern\bin\Debug\BridgePattern.pdb
+D:\Manikandan\Personal\Learning\Design Pattern\StructuralDesignPattern\BridgePattern\BridgePattern\BridgePattern\obj\Debug\BridgePattern.exe
+D:\Manikandan\Personal\Learning\Design Pattern\StructuralDesignPattern\BridgePattern\BridgePattern\BridgePattern\obj\Debug\BridgePattern.pdb
